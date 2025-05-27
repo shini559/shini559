@@ -6,7 +6,7 @@ Je m’intéresse à l'intelligence artificielle et la data.
 
 ## 🔍 Je recherche...
 Une alternance en **intelligence artificielle / data**, à partir de **janvier 2026**, pour une durée de **12 mois**.  
-Compétences principales : Python, Machine Learning,deep learning, SQL.
+Compétences principales : Python, Machine Learning, Deep Learning, SQL.
 
 
 
