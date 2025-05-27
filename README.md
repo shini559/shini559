@@ -1,10 +1,13 @@
 # 👋 Salut, moi c’est Wassim
+---
 Bienvenue sur mon GitHub !
 Je suis en formation Développeur en intelligence artificielle chez Simplon.
 Je m’intéresse à l'intelligence artificielle et la data.
 
 ## 🔍 Je recherche...
-Une alternance en **intelligence artificielle / data** (Python, Machine Learning).
+Une alternance en **intelligence artificielle / data**, à partir de **janvier 2026**, pour une durée de **12 mois**.  
+Compétences principales : Python, Machine Learning,deep learning, SQL.
+
 
 
 ### 🧠 Compétences
