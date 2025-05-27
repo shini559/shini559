@@ -22,7 +22,7 @@ Compétences principales : Python, Machine Learning, Deep Learning, SQL.
 
 ### 📫 Me contacter
 
-[Linkedin](www.linkedin.com/in/wassim-motasali/) • [Email](mailto:wassim.mts@outlook.fr)
+[Linkedin](https://www.linkedin.com/in/wassim-motasali/) • [Email](mailto:wassim.mts@outlook.fr)
 
 
 
