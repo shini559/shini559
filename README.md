@@ -1,5 +1,5 @@
 # 👋 Salut, moi c’est Wassim
----
+
 Bienvenue sur mon GitHub !
 Je suis en formation Développeur en intelligence artificielle chez Simplon.
 Je m’intéresse à l'intelligence artificielle et la data.
